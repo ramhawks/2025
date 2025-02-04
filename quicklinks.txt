@@ -1,0 +1,2 @@
+https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html
+https://www.chiefdelphi.com/t/trouble-with-sparkmax-idle-mode-2025/476436
